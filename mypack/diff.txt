@@ -1,0 +1,26 @@
+Instance variables
+Instance variables are declared in a class, but outside a method, constructor or any block.
+nstance variables are created when an object is created with the use of the keyword 'new' and destroyed when the object is destroyed.
+Instance variables can be accessed directly by calling the variable name inside the class.
+Instance Variable can be accessed only by creating objects.
+
+
+static variables:
+Class variables also known as static variables are declared with the static keyword in a class, but outside a method, constructor or a block.
+Static variables can be accessed by calling with the class name
+
+
+abstract classes
+
+Abstract class can have abstract and non-abstract methods.
+Abstract class doesn't support multiple inheritance.
+Abstract class can have final, non-final, static and non-static variables.
+Abstract class can provide the implementation of interface.
+ The abstract keyword is used to declare abstract class.
+
+
+interfaces
+Interface can have only abstract methods.
+Interface supports multiple inheritance.
+The interface keyword is used to declare interface.
+An interface can extend another Java interface only.
